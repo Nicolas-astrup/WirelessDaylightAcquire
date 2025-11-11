@@ -1,2 +1,6 @@
 # WirelessDaylightAcquire
-A curtain opening mekanisme which is wireless
+A curtain opening mechanism which is wireless
+
+
+
+
