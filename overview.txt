@@ -1,0 +1,20 @@
+Idea: voice to RF Curtain opener which uses machine learning to detect who is saying it based on gender and what the objectice is.
+
+First design: RF controlled curtain opener
+Components needed for first design:
+  RF-remote(transmitter)
+  RF receiver + microcontroller (control logic / safety)
+  Motor + gearbox (drive) and mechanical transmission (belt, spool, pulleys)
+  Motor driver / H-bridge / power stage
+  Power supply (battery or mains → DC)
+  Sensors & safety (limit switches, end stops, obstacle detect)
+  Mechanical mount, rails, couplings, enclosure, antenna
+  Optional: position encoder, current sense, user interface (buttons, LEDs, smartphone)
+
+First steps: Dev-kit solution
+1. RF-transmitter and reciver
+2. Motor and motordriver
+3. MCU (control logic)
+
+
+
